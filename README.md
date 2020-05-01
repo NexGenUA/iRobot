@@ -56,7 +56,7 @@ var someVariable = "someData";
 robot.log(someVariable);
 ```
 
-Try this code for check Robot position.
+Используйте метод getMe() для получения положения робота.
 ```javascript
 robot.log(scanner.getMe());
 ```
